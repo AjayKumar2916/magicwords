@@ -1,0 +1,22 @@
+Functionality 1
+---------------
+usage : python magic_word_1.py -j <jumbled word> -p <proper word>
+
+Example for functionality 1
+---------------------------
+python magic_word_1.py -j "edzlatsh" -p "hazel"
+python magic_word_1.py -j "uwtaqicy" -p "watch"
+
+
+Functionality 2
+----------------
+-
+
+Functionality 3
+---------------
+usage : python magic_word_3.py -j <jumbled word>
+
+Example for functionality 3
+---------------------------
+python magic_word_3.py -j uruqrnytrois
+python magic_word_3.py -j rryqeiaegicgeonr
