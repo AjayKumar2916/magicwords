@@ -10,7 +10,13 @@ python magic_word_1.py -j "uwtaqicy" -p "watch"
 
 Functionality 2
 ----------------
--
+usage : python magic_word_2.py -w <wildcard word> -p <proper word>
+
+Example for functionality 2
+---------------------------
+python magic_word_2.py -w pa?e -p page
+python magic_word_2.py -w pa?ek -p page
+
 
 Functionality 3
 ---------------
